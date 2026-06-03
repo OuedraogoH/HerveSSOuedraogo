@@ -242,10 +242,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
     if(themeBtn) themeBtn.setAttribute('aria-pressed', String(t==='dark'));
     try{ localStorage.setItem('ho-theme', t); }catch(e){}
   }
-  let theme='light';
+  let theme='dark';
   try{
-    theme = localStorage.getItem('ho-theme')
-      || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    theme = localStorage.getItem('ho-theme') || 'dark';
   }catch(e){}
   setTheme(theme);
   if(themeBtn) themeBtn.addEventListener('click', ()=>{
