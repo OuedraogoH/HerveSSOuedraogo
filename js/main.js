@@ -209,6 +209,110 @@ const I18N = {
 
     disclaimer:"Ceci est un site personnel. Les opinions exprimées sont celles de Hervé Ouédraogo, à titre personnel, et ne reflètent pas nécessairement les vues ou les politiques de l’Organisation des Nations Unies pour l’alimentation et l’agriculture ni de l’Organisation des Nations Unies.",
     foot_rights:"Tous droits réservés."
+  },
+  it:{
+    skip:"Vai al contenuto",
+    nav_about:"Profilo", nav_moments:"Momenti", nav_focus:"Ambiti", nav_journey:"Percorso",
+    nav_impact:"Impatto", nav_life:"Equilibrio", nav_pubs:"Pubblicazioni", nav_contact:"Contatti",
+
+    hero_eyebrow:"Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura · Africa",
+    hero_h1a:"Rafforzare i risultati, i partenariati e la",
+    hero_h1b:"trasformazione dei sistemi agroalimentari", hero_h1c:"in tutta l’Africa.",
+    hero_sub:"Funzionario regionale di programma, Ufficio regionale della FAO per l’Africa — oltre 20 anni nello sviluppo internazionale.",
+    hero_cta1:"Consulta il CV", hero_cta2:"Contattami",
+    hero_m2:"Ufficio regionale della FAO per l’Africa", hero_m3:"plurilingue, focus panafricano", badge:"Funzionario regionale di programma",
+
+    about_eyebrow:"Profilo",
+    about_h2:"Un professionista plasmato dal campo, dalla regione e dal sistema.",
+    about_p1:"Hervé Ouédraogo è un affermato professionista e leader dello sviluppo con oltre 20 anni di esperienza, di cui 14 all’interno del sistema delle Nazioni Unite. Ha operato a livello nazionale, subregionale, regionale e di sede centrale, oltre che nel settore privato, nelle istituzioni finanziarie internazionali, nel mondo accademico e nei governi.",
+    about_p2:"Presso l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) guida l’elaborazione e l’attuazione di strumenti strategici — analisi comune di paese (CCA), quadri di cooperazione delle Nazioni Unite per lo sviluppo sostenibile (UNSDCF), quadri di programmazione per paese (CPF) e UN INFO — e programmi per la regione Africa. Fornisce consulenza e supervisiona l’assegnazione e la gestione di un bilancio di programma annuale di 50 milioni di USD, guidando un team di oltre 60 persone in più paesi.",
+    about_quote:"I risultati non sono burocrazia: sono la promessa fatta alle persone che serviamo, mantenuta e misurata.",
+    about_p3:"La sua competenza spazia dalla pianificazione strategica alla mobilitazione di risorse e all’approccio sistemico al servizio della trasformazione dei sistemi agroalimentari, con particolare attenzione ai cambiamenti climatici, alla gestione delle risorse naturali e ai partenariati che trasformano l’ambizione in risultati.",
+    glance_title:"In sintesi",
+    glance_1:"anni nello sviluppo internazionale",
+    glance_2:"bilancio di programma regionale annuale seguito",
+    glance_3:"persone guidate in più paesi",
+    glance_4:"lingue parlate",
+
+    moments_eyebrow:"Momenti",
+    moments_h2:"Sul campo, al tavolo, in tutta la regione.",
+    moments_sub:"Una selezione di impegni recenti — riunire i partner, intervenire davanti agli organi direttivi e sostenere gli uffici nazionali della FAO.",
+    cap_ticad:"Intervento all’evento dell’Iniziativa Mano nella mano, TICAD9, Yokohama, 2025.",
+    cap_rabat:"Intervento alla 33ª Conferenza regionale della FAO per l’Africa, Rabat, 2024.",
+    cap_harare:"Workshop di sviluppo delle capacità con gli uffici nazionali, Harare, 2025.",
+    cap_rome:"Con i colleghi presso la sede della FAO, Roma.",
+    cap_som:"Riunione degli alti funzionari, Conferenza regionale della FAO per l’Africa.",
+    cap_capacity:"Confronto sullo sviluppo delle capacità e la divulgazione globale.",
+    cap_agritech:"Alla scoperta delle tecnologie e dell’innovazione agricola.",
+
+    focus_eyebrow:"Ambiti di competenza",
+    focus_h2:"Dove si concentra il lavoro.",
+    focus_p:"Dai quadri di risultati al finanziamento, un insieme di competenze interconnesse, costruite in due decenni.",
+    f1_t:"Gestione basata sui risultati", f1_d:"Monitoraggio, valutazione e rendicontazione istituzionali che collegano le attività a risultati misurabili.",
+    f2_t:"Pianificazione strategica", f2_d:"CCA, UNSDCF, CPF e UN INFO — gli strumenti che allineano la FAO alle priorità nazionali.",
+    f3_t:"Trasformazione dei sistemi agroalimentari", f3_d:"Programmi che affrontano i cambiamenti climatici, la gestione delle risorse naturali e la sicurezza alimentare.",
+    f4_t:"Mobilitazione di risorse", f4_d:"Posizionamento presso la comunità dei donatori e strutturazione di partenariati con partner finanziari e IFI.",
+    f5_t:"Iniziativa Mano nella mano", f5_d:"Punto focale regionale per i paesi francofoni, a sostegno della pianificazione di investimenti e finanziamenti.",
+    f6_t:"Trasformazione digitale", f6_d:"Promozione dell’iniziativa SCOPE e di un’attuazione basata sui dati nella programmazione per paese.",
+    f7_t:"Sviluppo delle capacità", f7_d:"Teoria del cambiamento, gestione del ciclo di progetto e accompagnamento dei team nazionali.",
+    f8_t:"Partenariati e coordinamento", f8_d:"Collaborazione interagenzia all’interno del sistema delle Nazioni Unite e con gli organismi regionali.",
+
+    journey_eyebrow:"Percorso professionale",
+    journey_h2:"Due decenni, quattro continenti di collaborazione.",
+    present:"oggi",
+    j1_t:"Funzionario regionale di programma (gestione dei risultati)", j1_o:"Ufficio regionale della FAO per l’Africa (RAF), Accra",
+    j1_d:"Co-guida lo sviluppo strategico e fornisce consulenza su un bilancio di programma annuale di 50 milioni di USD; punto focale regionale dell’Iniziativa Mano nella mano (paesi francofoni).",
+    j2_t:"Funzionario regionale di monitoraggio e valutazione per l’Africa", j2_o:"Ufficio regionale della FAO per l’Africa (RAF)",
+    j2_d:"Supporto tecnico a 47 uffici nazionali e quattro uffici subregionali; posizionamento della FAO presso i donatori, contribuendo a 55 milioni di USD mobilitati.",
+    j3_t:"Funzionario subregionale di monitoraggio e valutazione", j3_o:"Ufficio subregionale della FAO per l’Africa orientale (SFE)",
+    j3_d:"Istituzione di quadri di monitoraggio e valutazione per otto paesi e mobilitazione di 4 milioni di USD per progetti subregionali.",
+    j4_t:"Funzionario professionale junior (JPO)", j4_o:"Sede della FAO, Roma",
+    j4_d:"Supporto ai sistemi di prevenzione delle emergenze e alle missioni interagenzia di allerta precoce e valutazione della sicurezza alimentare.",
+    j5_t:"Docente di gestione dei progetti", j5_o:"Université de Ouagadougou (IGEDD)",
+    j5_d:"Corsi di livello magistrale sulla gestione del ciclo di progetto, la gestione basata sui risultati e la teoria del cambiamento.",
+    j6_t:"Primi incarichi — valutazione e sviluppo", j6_o:"JICA · UNDP/GEF · USAID/RTI International · CNRST · UNEP/GEF/ICRISAT",
+    j6_d:"Economista, capo team di valutazione e responsabile del monitoraggio in istituzioni bilaterali, multilaterali e di ricerca.",
+
+    impact_eyebrow:"Impatto e riconoscimenti",
+    impact_h2:"La scala, misurata in risultati.",
+    s1:"Bilancio di programma regionale annuale seguito e supervisionato.",
+    s2:"Risorse mobilitate attraverso negoziati con i donatori (2015-2017).",
+    s3:"Persone raggiunte da un programma sanitario di cui ha curato la logistica e il monitoraggio e valutazione.",
+    s4:"Operatori sanitari e funzionari formati nelle campagne nazionali.",
+    honours_title:"Riconoscimenti selezionati",
+    h1:"FAO — Miglior team dell’anno, premi multipli (2020, 2022, 2023, 2025)",
+    h2:"FAO — Dipendente dell’anno, top 100 mondiale (2020 e 2021)",
+    h3:"Top 200 dei dipendenti della FAO nel mondo (2019)",
+    h4:"Programma FAO per i giovani professionisti di alto potenziale (2011)",
+
+    insights_eyebrow:"Riflessioni e interventi",
+    insights_h2:"Condividere ciò che il lavoro insegna.",
+    insights_t:"Articoli, conferenze e dichiarazioni",
+    insights_p:"Uno spazio per riflessioni sulla gestione dei risultati, sui sistemi agroalimentari e sulla programmazione per paese. Nuovi contenuti e interventi compariranno qui.",
+    insights_cta:"Invita Hervé a intervenire",
+
+    life_eyebrow:"Oltre il lavoro",
+    life_h2:"Mantenere la prospettiva — e trasmetterla.",
+    life_lede:"Il tempo trascorso con la famiglia mi aiuta a mantenere il lavoro nella giusta prospettiva. Tengo a <em>far scoprire la natura ai miei figli</em> — la fauna, la terra e gli animali al centro dei sistemi agroalimentari su cui lavoro ogni giorno.",
+    cap_nature:"Osservare insieme la fauna durante una passeggiata nel bosco.",
+    cap_golf:"Sul green, insieme.", cap_sunset:"Un momento di quiete in riva all’oceano.",
+
+    pubs_eyebrow:"Pubblicazioni",
+    pubs_h2:"Lavori selezionati, valutati dai pari e applicati.",
+    p1_t:"Efficienza dei produttori di cipolle e patate nella regione del Saïs, Marocco.", p1_s:"Agronomie Africaine, Vol. 20, n. 3 (2008).",
+    p2_t:"Determinanti della domanda di pesce delle famiglie in Burkina Faso.", p2_s:"Tropicultura (Belgio, 2008).",
+    p3_t:"Audit tecnico del progetto agricolo PADAZ finanziato dalla BAD, Niger.", p3_s:"(2008).",
+    p4_t:"Monografia dell’agricoltura e delle filiere in Africa occidentale: il caso del Burkina Faso.", p4_s:"CMA/AOC, Ouagadougou (2007).",
+    p5_t:"Valutazione dell’impatto della metodologia delle scuole nei campi della FAO per la lotta integrata.", p5_s:"con l’Università di Hannover (2005).",
+
+    contact_eyebrow:"Contatti",
+    contact_h2:"Iniziamo una conversazione.",
+    contact_intro:"Per richieste di partenariato, interventi o consulenza, il modo più affidabile per raggiungermi è tramite e-mail o LinkedIn.",
+    email:"Scrivi a Hervé", linkedin:"Connettiti su LinkedIn", contact_cv:"Leggi il CV completo",
+    form_name:"Nome", form_email:"E-mail", form_msg:"Messaggio", form_send:"Invia il messaggio",
+
+    disclaimer:"Questo è un sito personale. Le opinioni espresse sono quelle di Hervé Ouédraogo, a titolo personale, e non riflettono necessariamente le opinioni o le politiche dell’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura né delle Nazioni Unite.",
+    foot_rights:"Tutti i diritti riservati."
   }
 };
 
@@ -234,10 +338,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
     if(themeBtn) themeBtn.setAttribute('aria-pressed', String(t==='dark'));
     try{ localStorage.setItem('ho-theme', t); }catch(e){}
   }
-  let theme='light';
+  let theme='dark';
   try{
-    theme = localStorage.getItem('ho-theme')
-      || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    theme = localStorage.getItem('ho-theme') || 'dark';
   }catch(e){}
   setTheme(theme);
   if(themeBtn) themeBtn.addEventListener('click', ()=>{
