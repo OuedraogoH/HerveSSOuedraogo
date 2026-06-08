@@ -10,7 +10,7 @@ const I18N = {
     hero_eyebrow:"Food and Agriculture Organization · Africa",
     hero_h1a:"Strengthening results, partnerships and",
     hero_h1b:"agrifood systems transformation", hero_h1c:"across Africa.",
-    hero_sub:"Regional Programme Officer, FAO Regional Office for Africa — over 20 years in international development.",
+    hero_sub:"Regional Programme Officer, FAO Regional Office for Africa. Over 20 years in international development.",
     hero_cta1:"View curriculum vitae", hero_cta2:"Get in touch",
     hero_m2:"FAO Regional Office for Africa", hero_m3:"bilingual, pan-African focus", badge:"Regional Programme Officer",
 
@@ -18,7 +18,7 @@ const I18N = {
     about_h2:"A practitioner shaped by the field, the region and the system.",
     about_p1:"Hervé Ouédraogo is an accomplished development practitioner and leader with over 20 years of experience, including 14 years within the United Nations system. He has worked at country, subregional, regional and headquarters levels, as well as across the private sector, international financial institutions, academia and governments.",
     about_p2:"At the Food and Agriculture Organization of the United Nations (FAO), he leads the preparation and implementation of strategic instruments — Common Country Analysis (CCA), United Nations Sustainable Development Cooperation Frameworks (UNSDCF), Country Programming Frameworks (CPF) and UN INFO — and programmes for the Africa region. He advises on and oversees the allocation and management of an annual programme budget of USD 50 million, leading a team of more than 60 personnel across multiple countries.",
-    about_quote:"Results are not paperwork — they are the promise we make to the people we serve, kept and measured.",
+    about_quote:"Results are not paperwork : they are the promise we make to the people we serve, kept and measured.",
     about_p3:"His expertise spans strategic planning, resource mobilization and systems-based practice to enable agrifood systems transformation, with particular attention to climate change, natural resource management and the partnerships that turn ambition into delivery.",
     glance_title:"At a glance",
     glance_1:"years in international development",
@@ -36,6 +36,7 @@ const I18N = {
     cap_som:"At the Senior Officers’ Meeting, FAO Regional Conference for Africa.",
     cap_capacity:"Exchanging on capacity building and global outreach.",
     cap_agritech:"Exploring agricultural technology and innovation.",
+    cap_food:"Supporting a food distribution to vulnerable households, Accra.",
 
     focus_eyebrow:"Focus areas",
     focus_h2:"Where the work concentrates.",
@@ -53,7 +54,7 @@ const I18N = {
     journey_h2:"Two decades, four continents of collaboration.",
     present:"present",
     j1_t:"Regional Programme Officer (Results Management)", j1_o:"FAO Regional Office for Africa (RAF), Accra",
-    j1_d:"Co-leads strategic development and advises on a USD 50 million annual programme budget; Regional Focal Point for the Hand-in-Hand Initiative (Francophone countries).",
+    j1_d:"Co-leads strategic development and advises on a USD 50 million annual programme budget; Regional Focal Point for the Hand-in-Hand Initiative.",
     j2_t:"Regional Monitoring and Evaluation Officer for Africa", j2_o:"FAO Regional Office for Africa (RAF)",
     j2_d:"Backstopped 47 country offices and four subregional offices; positioned FAO with donors, supporting USD 55 million in mobilized resources.",
     j3_t:"Subregional Monitoring and Evaluation Officer", j3_o:"FAO Subregional Office for Eastern Africa (SFE)",
@@ -88,6 +89,8 @@ const I18N = {
     life_lede:"Time with my family keeps the work in perspective. I make a point of <em>introducing my children to nature</em> — the wildlife, the land and the animals at the heart of the agrifood systems I work on every day.",
     cap_nature:"Watching wildlife together on a forest walk.",
     cap_golf:"On the green together.", cap_sunset:"A quiet moment by the ocean.",
+    cap_aburi:"With the family on the Aburi hills, Ghana.",
+    cap_zoo:"Introducing the children to wildlife up close.",
 
     pubs_eyebrow:"Publications",
     pubs_h2:"Selected peer-reviewed and applied research.",
@@ -114,7 +117,7 @@ const I18N = {
     hero_eyebrow:"Organisation des Nations Unies pour l’alimentation et l’agriculture · Afrique",
     hero_h1a:"Renforcer les résultats, les partenariats et la",
     hero_h1b:"transformation des systèmes agroalimentaires", hero_h1c:"à travers l’Afrique.",
-    hero_sub:"Fonctionnaire régional chargé des programmes, Bureau régional de la FAO pour l’Afrique — plus de 20 ans dans le développement international.",
+    hero_sub:"Fonctionnaire régional chargé des programmes, Bureau régional de la FAO pour l’Afrique. Plus de 20 ans dans le développement international.",
     hero_cta1:"Consulter le CV", hero_cta2:"Me contacter",
     hero_m2:"Bureau régional de la FAO pour l’Afrique", hero_m3:"bilingue, optique panafricaine", badge:"Fonctionnaire régional chargé des programmes",
 
@@ -140,6 +143,7 @@ const I18N = {
     cap_som:"Réunion des hauts responsables, Conférence régionale de la FAO pour l’Afrique.",
     cap_capacity:"Échanges sur le développement des capacités et la sensibilisation mondiale.",
     cap_agritech:"À la découverte des technologies et de l’innovation agricoles.",
+    cap_food:"En appui à une distribution alimentaire aux ménages vulnérables, Accra.",
 
     focus_eyebrow:"Domaines d’expertise",
     focus_h2:"Là où le travail se concentre.",
@@ -157,7 +161,7 @@ const I18N = {
     journey_h2:"Deux décennies, quatre continents de collaboration.",
     present:"aujourd’hui",
     j1_t:"Fonctionnaire régional chargé des programmes (gestion des résultats)", j1_o:"Bureau régional de la FAO pour l’Afrique (RAF), Accra",
-    j1_d:"Copilote le développement stratégique et conseille sur un budget-programme annuel de 50 millions d’USD ; point focal régional de l’Initiative Main dans la main (pays francophones).",
+    j1_d:"Copilote le développement stratégique et conseille sur un budget-programme annuel de 50 millions d’USD ; point focal régional de l’Initiative Main dans la main.",
     j2_t:"Fonctionnaire régional chargé du suivi et de l’évaluation pour l’Afrique", j2_o:"Bureau régional de la FAO pour l’Afrique (RAF)",
     j2_d:"Appui technique à 47 bureaux de pays et quatre bureaux sous-régionaux ; positionnement de la FAO auprès des donateurs, contribuant à 55 millions d’USD mobilisés.",
     j3_t:"Fonctionnaire sous-régional chargé du suivi et de l’évaluation", j3_o:"Bureau sous-régional de la FAO pour l’Afrique de l’Est (SFE)",
@@ -192,6 +196,8 @@ const I18N = {
     life_lede:"Le temps passé en famille me permet de garder le travail en perspective. Je tiens à <em>faire découvrir la nature à mes enfants</em> — la faune, la terre et les animaux au cœur des systèmes agroalimentaires sur lesquels je travaille chaque jour.",
     cap_nature:"Observer la faune ensemble lors d’une promenade en forêt.",
     cap_golf:"Sur le green, ensemble.", cap_sunset:"Un moment de calme au bord de l’océan.",
+    cap_aburi:"En famille sur les collines d’Aburi, Ghana.",
+    cap_zoo:"Faire découvrir la faune aux enfants, de tout près.",
 
     pubs_eyebrow:"Publications",
     pubs_h2:"Travaux choisis, évalués par les pairs et appliqués.",
@@ -218,7 +224,7 @@ const I18N = {
     hero_eyebrow:"Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura · Africa",
     hero_h1a:"Rafforzare i risultati, i partenariati e la",
     hero_h1b:"trasformazione dei sistemi agroalimentari", hero_h1c:"in tutta l’Africa.",
-    hero_sub:"Funzionario regionale di programma, Ufficio regionale della FAO per l’Africa — oltre 20 anni nello sviluppo internazionale.",
+    hero_sub:"Funzionario regionale di programma, Ufficio regionale della FAO per l’Africa. Oltre 20 anni nello sviluppo internazionale.",
     hero_cta1:"Consulta il CV", hero_cta2:"Contattami",
     hero_m2:"Ufficio regionale della FAO per l’Africa", hero_m3:"plurilingue, focus panafricano", badge:"Funzionario regionale di programma",
 
@@ -244,6 +250,7 @@ const I18N = {
     cap_som:"Riunione degli alti funzionari, Conferenza regionale della FAO per l’Africa.",
     cap_capacity:"Confronto sullo sviluppo delle capacità e la divulgazione globale.",
     cap_agritech:"Alla scoperta delle tecnologie e dell’innovazione agricola.",
+    cap_food:"A sostegno di una distribuzione alimentare alle famiglie vulnerabili, Accra.",
 
     focus_eyebrow:"Ambiti di competenza",
     focus_h2:"Dove si concentra il lavoro.",
@@ -261,7 +268,7 @@ const I18N = {
     journey_h2:"Due decenni, quattro continenti di collaborazione.",
     present:"oggi",
     j1_t:"Funzionario regionale di programma (gestione dei risultati)", j1_o:"Ufficio regionale della FAO per l’Africa (RAF), Accra",
-    j1_d:"Co-guida lo sviluppo strategico e fornisce consulenza su un bilancio di programma annuale di 50 milioni di USD; punto focale regionale dell’Iniziativa Mano nella mano (paesi francofoni).",
+    j1_d:"Co-guida lo sviluppo strategico e fornisce consulenza su un bilancio di programma annuale di 50 milioni di USD; punto focale regionale dell’Iniziativa Mano nella mano.",
     j2_t:"Funzionario regionale di monitoraggio e valutazione per l’Africa", j2_o:"Ufficio regionale della FAO per l’Africa (RAF)",
     j2_d:"Supporto tecnico a 47 uffici nazionali e quattro uffici subregionali; posizionamento della FAO presso i donatori, contribuendo a 55 milioni di USD mobilitati.",
     j3_t:"Funzionario subregionale di monitoraggio e valutazione", j3_o:"Ufficio subregionale della FAO per l’Africa orientale (SFE)",
@@ -296,6 +303,8 @@ const I18N = {
     life_lede:"Il tempo trascorso con la famiglia mi aiuta a mantenere il lavoro nella giusta prospettiva. Tengo a <em>far scoprire la natura ai miei figli</em> — la fauna, la terra e gli animali al centro dei sistemi agroalimentari su cui lavoro ogni giorno.",
     cap_nature:"Osservare insieme la fauna durante una passeggiata nel bosco.",
     cap_golf:"Sul green, insieme.", cap_sunset:"Un momento di quiete in riva all’oceano.",
+    cap_aburi:"In famiglia sulle colline di Aburi, Ghana.",
+    cap_zoo:"Far scoprire da vicino la fauna ai bambini.",
 
     pubs_eyebrow:"Pubblicazioni",
     pubs_h2:"Lavori selezionati, valutati dai pari e applicati.",
