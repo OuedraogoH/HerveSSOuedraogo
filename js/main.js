@@ -36,7 +36,8 @@ const I18N = {
     cap_som:"At the Senior Officers’ Meeting, FAO Regional Conference for Africa.",
     cap_capacity:"Exchanging on capacity building and global outreach.",
     cap_agritech:"Exploring agricultural technology and innovation.",
-    cap_office:"At work, FAO Regional Office for Africa, Accra.",
+    cap_meknes:"At the International Agricultural Fair, Meknes, 2024.",
+    cap_food:"Supporting a food distribution, Accra.",
 
     focus_eyebrow:"Focus areas",
     focus_h2:"Where the work concentrates.",
@@ -89,6 +90,8 @@ const I18N = {
     life_lede:"Time with my family keeps the work in perspective. I make a point of <em>introducing my children to nature</em> — the wildlife, the land and the animals at the heart of the agrifood systems I work on every day.",
     cap_nature:"Watching wildlife together on a forest walk.",
     cap_golf:"On the green together.", cap_sunset:"A quiet moment by the ocean.",
+    cap_zoo:"A day at the zoo with the children.", cap_waterfalls:"Discovering a waterfall together.",
+    cap_aburi:"Among the trees at the Aburi Botanical Gardens.", cap_coast:"A family moment along the coast.",
 
     pubs_eyebrow:"Publications",
     pubs_h2:"Selected peer-reviewed and applied research.",
@@ -141,7 +144,8 @@ const I18N = {
     cap_som:"Réunion des hauts responsables, Conférence régionale de la FAO pour l’Afrique.",
     cap_capacity:"Échanges sur le développement des capacités et la sensibilisation mondiale.",
     cap_agritech:"À la découverte des technologies et de l’innovation agricoles.",
-    cap_office:"Au travail, Bureau régional de la FAO pour l’Afrique, Accra.",
+    cap_meknes:"Au Salon international de l’agriculture, Meknès, 2024.",
+    cap_food:"En appui à une distribution alimentaire, Accra.",
 
     focus_eyebrow:"Domaines d’expertise",
     focus_h2:"Là où le travail se concentre.",
@@ -194,6 +198,8 @@ const I18N = {
     life_lede:"Le temps passé en famille me permet de garder le travail en perspective. Je tiens à <em>faire découvrir la nature à mes enfants</em> — la faune, la terre et les animaux au cœur des systèmes agroalimentaires sur lesquels je travaille chaque jour.",
     cap_nature:"Observer la faune ensemble lors d’une promenade en forêt.",
     cap_golf:"Sur le green, ensemble.", cap_sunset:"Un moment de calme au bord de l’océan.",
+    cap_zoo:"Une journée au zoo avec les enfants.", cap_waterfalls:"À la découverte d’une cascade, ensemble.",
+    cap_aburi:"Parmi les arbres des jardins botaniques d’Aburi.", cap_coast:"Un moment en famille au bord de la côte.",
 
     pubs_eyebrow:"Publications",
     pubs_h2:"Travaux choisis, évalués par les pairs et appliqués.",
@@ -246,7 +252,8 @@ const I18N = {
     cap_som:"En la Reunión de Altos Funcionarios, Conferencia Regional de la FAO para África.",
     cap_capacity:"Intercambio sobre el desarrollo de capacidades y la proyección mundial.",
     cap_agritech:"Explorando la tecnología y la innovación agrícolas.",
-    cap_office:"En el trabajo, Oficina Regional de la FAO para África, Accra.",
+    cap_meknes:"En la Feria Internacional de Agricultura, Mequinez, 2024.",
+    cap_food:"Apoyando una distribución de alimentos, Accra.",
 
     focus_eyebrow:"Áreas de especialización",
     focus_h2:"Donde se concentra el trabajo.",
@@ -299,6 +306,8 @@ const I18N = {
     life_lede:"El tiempo en familia me ayuda a mantener el trabajo en perspectiva. Me empeño en <em>acercar la naturaleza a mis hijos</em>: la fauna, la tierra y los animales que están en el corazón de los sistemas agroalimentarios en los que trabajo cada día.",
     cap_nature:"Observando juntos la fauna en un paseo por el bosque.",
     cap_golf:"Juntos en el green.", cap_sunset:"Un momento de calma junto al océano.",
+    cap_zoo:"Un día en el zoológico con los niños.", cap_waterfalls:"Descubriendo juntos una cascada.",
+    cap_aburi:"Entre los árboles de los Jardines Botánicos de Aburi.", cap_coast:"Un momento en familia junto a la costa.",
 
     pubs_eyebrow:"Publicaciones",
     pubs_h2:"Investigación seleccionada, revisada por pares y aplicada.",
@@ -351,7 +360,8 @@ const I18N = {
     cap_som:"في اجتماع كبار المسؤولين، المؤتمر الإقليمي للفاو لأفريقيا.",
     cap_capacity:"تبادل الآراء حول تنمية القدرات والتواصل العالمي.",
     cap_agritech:"استكشاف التكنولوجيا والابتكار في المجال الزراعي.",
-    cap_office:"في العمل، المكتب الإقليمي للفاو لأفريقيا، أكرا.",
+    cap_meknes:"في المعرض الدولي للفلاحة، مكناس، 2024.",
+    cap_food:"دعم عملية توزيع للمواد الغذائية، أكرا.",
 
     focus_eyebrow:"مجالات التركيز",
     focus_h2:"حيث يتركّز العمل.",
@@ -404,6 +414,8 @@ const I18N = {
     life_lede:"الوقت مع عائلتي يُبقي العمل في منظوره الصحيح. وأحرص على <em>تعريف أطفالي بالطبيعة</em> — الحياة البرية والأرض والحيوانات التي تقع في صميم النظم الزراعية والغذائية التي أعمل عليها كل يوم.",
     cap_nature:"مراقبة الحياة البرية معًا في نزهة بالغابة.",
     cap_golf:"على ملعب الغولف معًا.", cap_sunset:"لحظة هدوء على شاطئ المحيط.",
+    cap_zoo:"يوم في حديقة الحيوان مع الأطفال.", cap_waterfalls:"اكتشاف شلال معًا.",
+    cap_aburi:"بين أشجار حدائق أبوري النباتية.", cap_coast:"لحظة عائلية على الساحل.",
 
     pubs_eyebrow:"المنشورات",
     pubs_h2:"أبحاث مختارة محكّمة وتطبيقية.",
@@ -456,7 +468,8 @@ const I18N = {
     cap_som:"На совещании старших должностных лиц, Региональная конференция ФАО для Африки.",
     cap_capacity:"Обмен мнениями о развитии потенциала и глобальной работе.",
     cap_agritech:"Изучение сельскохозяйственных технологий и инноваций.",
-    cap_office:"За работой, Региональное отделение ФАО для Африки, Аккра.",
+    cap_meknes:"На Международной сельскохозяйственной выставке, Мекнес, 2024.",
+    cap_food:"Поддержка раздачи продовольствия, Аккра.",
 
     focus_eyebrow:"Области специализации",
     focus_h2:"Где сосредоточена работа.",
@@ -509,6 +522,8 @@ const I18N = {
     life_lede:"Время с семьёй помогает мне сохранять верный взгляд на работу. Я считаю важным <em>знакомить детей с природой</em> — с дикой природой, землёй и животными, которые лежат в основе агропродовольственных систем, над которыми я работаю каждый день.",
     cap_nature:"Вместе наблюдаем за дикой природой на прогулке по лесу.",
     cap_golf:"Вместе на поле для гольфа.", cap_sunset:"Тихий момент у океана.",
+    cap_zoo:"День в зоопарке с детьми.", cap_waterfalls:"Вместе открываем водопад.",
+    cap_aburi:"Среди деревьев ботанического сада Абури.", cap_coast:"Семейный момент на побережье.",
 
     pubs_eyebrow:"Публикации",
     pubs_h2:"Избранные рецензируемые и прикладные исследования.",
@@ -561,7 +576,8 @@ const I18N = {
     cap_som:"在高级官员会议上，粮农组织非洲区域会议。",
     cap_capacity:"就能力建设和全球外联交换意见。",
     cap_agritech:"探索农业技术与创新。",
-    cap_office:"工作中，粮农组织非洲区域办事处，阿克拉。",
+    cap_meknes:"在国际农业展览会，梅克内斯，2024年。",
+    cap_food:"协助粮食分发，阿克拉。",
 
     focus_eyebrow:"重点领域",
     focus_h2:"工作的着力点。",
@@ -614,6 +630,8 @@ const I18N = {
     life_lede:"与家人共度的时光让我对工作保持清醒的认识。我特别注重<em>带孩子们认识大自然</em>——野生动物、土地以及那些处于我每天所致力的农业粮食体系核心的动物。",
     cap_nature:"在林间漫步时一起观察野生动物。",
     cap_golf:"一起在果岭上。", cap_sunset:"海边宁静的一刻。",
+    cap_zoo:"和孩子们一起在动物园的一天。", cap_waterfalls:"一起探访瀑布。",
+    cap_aburi:"漫步在阿布里植物园的树林间。", cap_coast:"海岸边的家庭时光。",
 
     pubs_eyebrow:"出版物",
     pubs_h2:"部分同行评审及应用研究。",
