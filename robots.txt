@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hervessouedraogo.netlify.app/sitemap.xml
